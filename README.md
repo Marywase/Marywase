@@ -1,15 +1,15 @@
 # Emmanuel Mary
 
-Frontend Developer building responsive, interactive web experiences with HTML, CSS, JavaScript, and external APIs.
+Frontend Engineer building accessible, type-safe web applications with TypeScript, React, Next.js, and modern testing workflows.
 
-I turn visual ideas into usable interfaces, from multi-page websites to data-driven applications. My work focuses on responsive layouts, clear navigation, dynamic content, practical interactions, and consistent experiences across screen sizes.
+I turn product ideas into polished user experiences, from responsive interfaces to data-driven applications. My foundation in semantic HTML, CSS, JavaScript, and browser APIs supports a modern engineering approach centered on reusable components, typed data flows, accessibility, performance, and reliable delivery.
 
 ## What I Build
 
-- Responsive interfaces for mobile and desktop screens.
-- Interactive JavaScript experiences driven by DOM state and user actions.
-- API-powered applications with filtering, sorting, pagination, and detail views.
-- Multi-page websites with clear content structure and visual consistency.
+- Responsive applications with reusable component architecture.
+- Type-safe product flows across UI state, forms, APIs, and validation.
+- Data-rich interfaces with caching, filtering, pagination, and resilient states.
+- Accessible design systems supported by automated tests and continuous delivery.
 
 ## Selected Work
 
@@ -20,25 +20,38 @@ I turn visual ideas into usable interfaces, from multi-page websites to data-dri
 | [P27Media](https://github.com/Marywase/p27media) | Multi-page media website with home, about, gallery, and contact experiences | HTML, CSS, JavaScript |
 | [Medical Website](https://github.com/Marywase/Medical-website) | Structured healthcare landing page with responsive content sections | HTML, CSS, Bootstrap |
 
-## Frontend Stack
+## Modern Frontend Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Core
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+### Interface and data
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+### Quality and delivery
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## Engineering Focus
 
-- Accessible, responsive interface implementation.
-- Maintainable JavaScript and reusable UI patterns.
-- Reliable loading, empty, error, and interaction states.
-- Performance-conscious media and API experiences.
-- Clear project documentation and reproducible setup.
+- Next.js App Router architecture with intentional server and client boundaries.
+- Type-safe components, forms, API contracts, and validation.
+- Accessible design systems and responsive interaction patterns.
+- Reliable loading, empty, error, optimistic, and recovery states.
+- Component, integration, and end-to-end testing in continuous integration.
+- Performance budgets, image optimization, and production observability.
 
 ## Current Direction
 
-I am extending my frontend work with stronger component architecture, automated testing, accessibility checks, and production-ready API handling.
+I am evolving AURA into a TypeScript and React case study with component architecture, tested data flows, accessibility checks, production-safe API handling, and documented performance decisions.
